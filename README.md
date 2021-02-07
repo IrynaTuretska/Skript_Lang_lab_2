@@ -1,5 +1,8 @@
 # Skript_Lang_lab_2
 
+Перебір масивів в функціональному стилі JavaScript. 
+Об'єктно-орієнтоване програмування (ООП) в JavaScript. https://repl.it/@TuretskaIryna/ScrLangLR2
+
 <!DOCTYPE html>
 <html>
 <body>
