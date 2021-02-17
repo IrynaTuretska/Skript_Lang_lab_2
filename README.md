@@ -2,6 +2,7 @@
 
 Перебір масивів в функціональному стилі JavaScript. 
 Об'єктно-орієнтоване програмування (ООП) в JavaScript. https://repl.it/@TuretskaIryna/ScrLangLR2
+https://repl.it/@TuretskaIryna/LR2part2
 
 <!DOCTYPE html>
 <html>
